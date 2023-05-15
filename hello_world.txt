@@ -1,0 +1,3 @@
+Hello world!
+This is my first command line file.
+Thanks Odin for makeing it simple to use!
